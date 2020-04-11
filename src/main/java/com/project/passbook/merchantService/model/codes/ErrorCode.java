@@ -1,4 +1,4 @@
-package com.project.passbookmodel.codes;
+package com.project.passbook.merchantService.model.codes;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

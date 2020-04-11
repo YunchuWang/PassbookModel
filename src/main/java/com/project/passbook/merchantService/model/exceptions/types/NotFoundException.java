@@ -1,4 +1,4 @@
-package com.project.passbookmodel.exceptions.types;
+package com.project.passbook.merchantService.model.exceptions.types;
 
 public class NotFoundException extends RuntimeException {
 

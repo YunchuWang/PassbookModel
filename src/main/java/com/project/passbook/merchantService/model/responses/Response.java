@@ -1,6 +1,6 @@
-package com.project.passbookmodel.responses;
+package com.project.passbook.merchantService.model.responses;
 
-import com.project.passbookmodel.codes.ErrorCode;
+import com.project.passbook.merchantService.model.codes.ErrorCode;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,4 @@
-package com.project.passbookmodel.entities;
+package com.project.passbook.merchantService.model.entities;
 
 import javax.persistence.*;
 import lombok.AllArgsConstructor;
